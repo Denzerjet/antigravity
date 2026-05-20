@@ -1,0 +1,18 @@
+# Compiled binaries
+basic_protocol/receiver
+basic_protocol/sender
+
+# Benchmarking build directory and compiled outputs
+benchmarking/build/
+
+# Generated benchmark output images
+benchmarking/images/output_image.png
+
+# Object files and temporary outputs
+*.o
+*.out
+*.dSYM/
+
+# OS-specific files
+.DS_Store
+Thumbs.db

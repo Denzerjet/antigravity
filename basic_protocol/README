@@ -1,0 +1,4 @@
+Input an integer between 0 and 511
+Receiver will print a 3x3 grid of 0s and 1s accordingly
+
+run receiver then sender
